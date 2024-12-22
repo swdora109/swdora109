@@ -1,6 +1,6 @@
-## 👋 Hi, I am Sungwon (Dora). I am a computational linguist with an MA in Linguistics, passionate about advancing natural language processing and large language models (LLMs) that align with human values. My goal is to bridge linguistic theory and AI to develop innovative approaches in various business sectors.
+### 👋 Hi, I am Sungwon (Dora). I am a computational linguist with an MA in Linguistics, passionate about advancing natural language processing and large language models (LLMs) that align with human values. My goal is to bridge linguistic theory and AI to develop innovative approaches in various business sectors.
 
-## 🤝 Connect with me
+### 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sungwon-dae)
 [![Email](https://img.shields.io/badge/Email-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:https://swdora.wordpress.com)
 [![Website](https://img.shields.io/badge/Website-%2321759B?style=flat&logo=wordpress&logoColor=white)](https://swdora.wordpress.com)
