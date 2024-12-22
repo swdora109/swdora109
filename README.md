@@ -1,5 +1,4 @@
-# 👋 Hi there!
-I am a computational linguist with an MA in Linguistics, passionate about advancing natural language processing and large language models (LLMs) that align with human values. My goal is to bridge linguistic theory and AI to develop innovative approaches in the business sectors.
+# 👋 Hi, I am a computational linguist with an MA in Linguistics, passionate about advancing natural language processing and large language models (LLMs) that align with human values. My goal is to bridge linguistic theory and AI to develop innovative approaches in various business sectors. **
 
 ## 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sungwon-dae)
