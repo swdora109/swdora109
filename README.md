@@ -18,7 +18,7 @@
 
 ### 🏆 Awards & Honors
 - Teaching Assistantship at Syracuse University, USA (2022-2023)
-- Fulbright Language Teaching Assistant Scholarship (2020-2021)
+- Fulbright Language Teaching Assistant Scholarship, USA (2020-2021)
 - Research Assistantship at Kyung Hee University, South Korea (2020-2022)
 
 ### 📝 Research Output
@@ -26,6 +26,7 @@
 **Korean Language Education Materials (2020)**
 - Co-editor of "Korean for Overseas Koreans 4-1" (Textbook, Workbook, Teacher's Guide)
 - Co-editor of "Korean for Overseas Koreans 4-2" (Textbook, Workbook, Teacher's Guide)
+- Co-editor of "Learning Korean with Bidaduemi"
 
 **Academic Research**
 - "Complement Nouns in KFL Teaching Materials" - Master's thesis, Kyung Hee University (2023)
@@ -34,4 +35,3 @@
 - "Using Morphological Analysis to Teach Korean-speaking EFL Learners" (2022)
 - "Utilizing Suffixes in Teaching English Vocabulary to Korean-speaking Learners" (2022)
 - "The Impact of Information Gap Activities on Young KFL Learners' Oral Fluency" (2021)
-- "Learning Korean with Bidaduemi" - Co-authored (2016)
