@@ -1,4 +1,4 @@
-### 👋 Hi, I am Sungwon (Dora). I am a computational linguist with an MA in Linguistics, driven by advancing natural language processing and large language models (LLMs) that align with human values. I strive to bridge linguistic theory and AI to push the boundaries of NLP applications across diverse business domains.
+### 👋 Hi, I am Sungwon (Dora). I am a computational linguist with two MAs in Linguistics and in the Korean language, driven by advancing natural language processing and large language models (LLMs) that align with human values. I strive to bridge linguistic theory and AI to push the boundaries of NLP applications across diverse business domains.
 
 ### 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sungwon-dae)
