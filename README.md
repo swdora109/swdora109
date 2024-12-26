@@ -7,14 +7,15 @@
 
 ### 🛠 Skills
 - **Programming Languages**: Python
-- **NLP & ML Frameworks**: PyTorch, NLTK (Natural Language Toolkit), TensorFlow, scikit-learn, Gensim
-- **Languages**: Korean (Native), English (Professional), Chinese (Beginner), Finnish (Beginner)
-- **Research Areas**: Computational Linguistics, NLP, LLMs, AI Alignment
+- **NLP & ML Frameworks**: PyTorch, NLTK (Natural Language Toolkit), TensorFlow, scikit-learn, Gensim, Hugging Face Transformers, XGBoost
+- **Data Management Systems**: SQL(MySQL), NoSQL(MongoDB)
+- **Development & Deployment Environments**: Linux (Ubuntu), Docker, Git, Jupyter Notebook
 
 ### 🎯 Current Focus
-- Researching ethical implications of LLMs
-- Developing linguistically-informed approaches to NLP
-- Contributing to open-source NLP projects
+- **Computational Linguistics & NLP**: Syntactic and semantic analysis, Text-to-speech, multilingual NLP, low-resource language modeling
+- **Large Language Models (LLMs)**: Model interpretability, fine-tuning, and optimization for domain-specific tasks
+- **AI Alignment**: Safety and alignment challenges in AI deployment, with an emphasis on value alignment and robustness
+- **Ethical Implications of LLMs**: Fairness in AI systems and societal impact of large-scale language technologies
 
 ### 🏆 Awards & Honors
 - Teaching Assistantship at Syracuse University, USA (2022-2023)
