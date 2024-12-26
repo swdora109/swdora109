@@ -8,7 +8,7 @@
 ### 🛠 Skills
 - **Programming Languages**: Python
 - **NLP & ML Frameworks**: PyTorch, NLTK (Natural Language Toolkit), TensorFlow, scikit-learn, Gensim, Hugging Face Transformers, XGBoost
-- **Data Management Systems**: SQL(MySQL), NoSQL(MongoDB)
+- **Data Management Systems**: SQL (MySQL), NoSQL (MongoDB)
 - **Development & Deployment Environments**: Linux (Ubuntu), Docker, Git, Jupyter Notebook
 
 ### 🎯 Current Focus
