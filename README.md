@@ -3,7 +3,6 @@
 ### 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sungwon-dae)
 [![Email](https://img.shields.io/badge/Email-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:https://swdora.wordpress.com)
-[![Website](https://img.shields.io/badge/Website-%2321759B?style=flat&logo=wordpress&logoColor=white)](https://swdora.wordpress.com)
 
 ### 🛠 Skills
 - **Programming Languages**: Python
